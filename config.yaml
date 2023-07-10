@@ -1,0 +1,15 @@
+rabbitmq:
+  username: username
+  password: password
+  host: amqps://host
+  csv_rabbitmq: csv_queue
+postgres:
+  host: host
+  port: port
+  dbname: dbname
+  user: user
+  password: password
+redis:
+  host: host
+  username: username
+  password: password
